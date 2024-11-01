@@ -38,6 +38,9 @@ models:
       +materialized: table
     src:
       +materialized: ephemeral
+    analytics:
+      +materialized: table
+
 
 
 
